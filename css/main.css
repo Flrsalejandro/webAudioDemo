@@ -1,0 +1,40 @@
+body {
+    background-color: #EEEEF5;
+    padding-top: 25px;
+}
+
+
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+    border: 3px solid #ccc;
+    display: inline;
+}
+
+.jumbotron {
+	background-color: #EEEEF5;
+	margin-bottom: 0px;
+	padding-bottom: 100px;
+	padding-left: 25px;
+}
+.jumbotron h1 {
+	color: #f1c40f;
+	font-size: 50px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	text-align: left;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+
+.jumbotron p {
+	color: #f1c40f;
+	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	text-align: left;
+	text-shadow: 1px 1px 2px #000000;
+} 
